@@ -1,0 +1,6 @@
+*** Settings ***
+| Library | Selenium2Library
+
+*** Test Cases ***
+Opening
+   Open browser    http://www.bbcnews.com    chrome
