@@ -1,0 +1,486 @@
+Prefix,TestCase ID,Title,Type,Run,Result,Log,Duration Time
+,TeraClientServer_00000,"＃Setup
+""Initial testing enviroment""",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_01001,POST /api/login,,0,,,
+,TeraClientServer_01002,GET /api/devices,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_01003,"POST /api/files
+Verity currentPath inode",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_01004,POST /api/lock,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_01005,POST /api/unlock,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_01006,POST /api/erase,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_01007,"GET /api/file/{inode}/download
+Verify doc text data (.txt)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_01008,GET /api/files/{inode}/info,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_01009,POST /api/devices/webdav/enable,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_01010,POST /api/devices/webdav/disable,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_01011,PUT        /api/devices/webdav/,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_01012,GET /api/devices/webdav/,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_01013,POST /api/feedback/,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_99999,"＃Teardown
+""Clearn testing environment""",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02001,"GET /api/devices
+Verify latest sync time",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02002,"POST /api/files
+Verify params of start over file count",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02003,"POST /api/files
+Verify mandatory params is none",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02004,"POST /api/files
+Verify mandatory params is null",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02005,"POST /api/files
+Device is locked",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02006,"POST /api/files
+Verity current_inode = 0 & one external vol",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02007,"POST /api/files
+Verity next inode",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02008,"POST /api/files
+Verity next and next inode",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02009,"POST /api/files
+Verity device locked",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02010,"POST /api/files
+Verity inode in cache",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02011,"POST /api/files
+Verity cache data is old",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02012,"POST /api/lock
+Verify Add en-US message (optional)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02013,"POST /api/lock
+Verify Add zh-TW message (optional)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02014,"POST /api/lock
+Verify message is none",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02015,"POST /api/lock
+Verify message is garbled",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02016,"POST /api/erase
+Verify device not locked",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02017,"GET /api/file/{inode}/download
+Verify img data (.jpg)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02018,"GET /api/file/{inode}/download
+Verify video data (.mp3)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02019,"GET /api/file/{inode}/download
+Verify video data (.mp4)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02020,"GET /api/file/{inode}/download
+Verify compression data (.zip)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02021,"PUT /api/devices/webdav/
+Verify new password less 6 characters",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02022,"PUT /api/devices/webdav/
+Verify change password (orgin password is wrong)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02023,"PUT /api/devices/webdav/
+Verify change password (orgin password is right)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02024,"POST /api/feedback/
+Verity missing required parameter (name)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02025,"POST /api/feedback/
+Verity missing required parameter (email)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02026,"POST /api/feedback/
+Verity missing required parameter (phone)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02027,"POST /api/feedback/
+Verity missing required parameter (origin_of_issue)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02028,"POST /api/feedback/
+Verity missing required parameter (category)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02029,"POST /api/feedback/
+Verity missing required parameter (description)",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02030,"POST /api/feedback/
+Verity missing required attachment file",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02031,"POST /api/feedback/
+Verity attachment file size too large",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02032,"POST /api/feedback/
+Verity attachment file format is *.png",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02033,"POST /api/feedback/
+Verity attachment file format is *.log",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02034,"POST /api/feedback/
+Verity attachment file format is *.zip",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_02035,"POST /api/feedback/
+Verity attachment file is multiple files",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_03001,"PRPPFIND
+Verify list",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_03002,"PRPPFIND
+Verify sub list",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_03003,"GET
+Verify download files",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_05001,Verify parse list volume - old version meta,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_05002,Verify parse list volume - new version meta,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_05003,Verify parse meta - old version meta,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_05004,Verify parse meta - new version meta,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_05005,Verify parse childs - old version meta,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_05006,Verify parse childs - new version meta,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_05007,Verify parse list file blocks - old version meta,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_05008,Verify parse list file blocks - new version meta,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_05009,Verify parse vol usage - old version meta,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_05010,Verify parse vol usage - new version meta,,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0
+,TeraClientServer_99999,"＃Teardown
+""Clearn testing environment""",,1,Error,"Traceback (most recent call last):
+  File ""/home/tester/Documents/pi-tester/Engine/TestEngine.py"", line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File ""/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py"", line 8, in <module>
+    import jwt
+ImportError: No module named jwt
+",0

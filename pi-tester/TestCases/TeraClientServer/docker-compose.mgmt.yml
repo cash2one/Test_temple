@@ -1,0 +1,28 @@
+web:
+  image: docker:5000/hcfsmanagementserver_web:latest
+  ports:
+    - "443:443"
+  links:
+    - database
+  volumes:
+    - ./web_logs/:/var/log/supervisor
+  environment:
+    # Same as database
+    - MYSQL_ROOT_PASSWORD=123456
+database:
+  image: docker:5000/hcfsmanagementserver_database:latest
+  volumes:
+    - ./db_data/:/var/lib/mysql
+  environment:
+    - MYSQL_CLUSTER_PRIMARY=true
+    - MYSQL_CLUSTER_NAME="mariadb_cluster"
+    - MYSQL_CLUSTER_ADDR=192.168.99.100
+    - MYSQL_CLUSTER_ADDRS=192.168.99.100
+    - MYSQL_ROOT_PASSWORD=123456
+    - MYSQL_DATABASE=hcfsMgs
+    - BACKUP_OBJECT_TYPE=swift
+    - BACKUP_OBJECT_HOST=10.10.99.120:8080
+    - BACKUP_OBJECT_TLS=true
+    - BACKUP_OBJECT_USER=mgmt_auto_test:mgmt_auto_test
+    - BACKUP_OBJECT_PASSWORD=sLmZFvWoXImN
+    - BACKUP_OBJECT_BUCKET=auto_test_mgmt_database_backup

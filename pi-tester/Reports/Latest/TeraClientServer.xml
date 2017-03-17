@@ -1,0 +1,563 @@
+<?xml version="1.0" ?>
+<testsuites errors="0" failures="62" tests="62" time="0.0">
+	<testsuite errors="0" failures="62" name="TeraClientServer" skipped="0" tests="62" time="0">
+		<testcase classname="TeraClientServer" name="TeraClientServer_00000">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_05010">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_01002">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_01003">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_01006">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_01007">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_01004">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_01005">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02032">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02033">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_01008">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_01009">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02030">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02034">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02035">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02003">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02002">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02001">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02031">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02007">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02006">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02005">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02004">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02009">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02008">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_03001">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_03002">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_03003">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_05008">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_05009">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_05006">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_05007">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_05004">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_05005">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_05002">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_05003">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_05001">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_01011">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02028">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_01013">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_01012">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02021">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02020">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02023">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02022">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02025">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02024">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02027">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02026">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02014">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02015">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02016">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02017">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02010">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02011">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02012">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_01010">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02029">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02013">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02018">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_02019">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+		<testcase classname="TeraClientServer" name="TeraClientServer_99999">
+			<failure message="msgTraceback (most recent call last):
+  File &quot;/home/tester/Documents/pi-tester/Engine/TestEngine.py&quot;, line 87, in _invoke_test_case
+    mod = __import__('TestCases.{0}.{0}'.format(case_classify), fromlist=[case_id])
+  File &quot;/home/tester/Documents/pi-tester/TestCases/TeraClientServer/TeraClientServer.py&quot;, line 8, in &lt;module&gt;
+    import jwt
+ImportError: No module named jwt
+" type="failure"/>
+		</testcase>
+	</testsuite>
+</testsuites>

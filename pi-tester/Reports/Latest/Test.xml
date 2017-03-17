@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<testsuites errors="0" failures="0" tests="1" time="0.0">
+	<testsuite errors="0" failures="0" name="Test" skipped="0" tests="1" time="0">
+		<testcase classname="Test" name="Test_0101"/>
+	</testsuite>
+</testsuites>
